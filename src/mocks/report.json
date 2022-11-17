@@ -1,0 +1,15 @@
+{
+  "impact": 12,
+  "self_awareness": 3,
+  "optimistic_thinking": 5,
+  "self_management": 8,
+  "goal_directed": 2,
+  "social_awareness": 6,
+  "relationship_skills": 7,
+  "personal_responsibility": 9,
+  "decision_making": 4,
+  "words_written": 10,
+  "completion_rate": "Completion Rate",
+  "highlights": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "growth": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+}
